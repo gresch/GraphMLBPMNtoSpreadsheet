@@ -1,3 +1,5 @@
 *.RData
 .Rhistory
 *.Rproj
+.Rproj.user
+01Data/ExampleBPMNDiagramComplex.graphml
