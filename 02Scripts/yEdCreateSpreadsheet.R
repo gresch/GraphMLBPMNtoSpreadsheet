@@ -1,5 +1,5 @@
 # Load functions
-source("./02Scripts/20150825yEdGraphpml.R")
+source("./02Scripts/yEdGraphpml.R")
 
 # Parse XML
 result <- readGraphmlFiles()

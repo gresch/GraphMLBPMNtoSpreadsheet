@@ -5,11 +5,7 @@ Sys.setenv(JAVA_HOME="C:\\Program Files\\Java\\jre1.8.0_45")
 library(XML)
 library(rJava)
 library(xlsx)
-
-
 library(dplyr)
-library(ggplot2)
-library(ggthemes)
 
 
 ##################################
